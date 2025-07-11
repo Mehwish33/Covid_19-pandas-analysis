@@ -26,5 +26,6 @@ https://github.com/Mehwish33/Covid_19-pandas-analysis/tree/main
 
 ## Output:
 
-      <img width="1189" height="316" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/d078de7f-268a-45f1-bc85-42987890ead3" />
+     <img width="1189" height="316" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/6563b173-1580-4cfe-8c01-3fc650515bfe" />
+
                                                           
