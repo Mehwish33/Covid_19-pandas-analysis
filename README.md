@@ -27,7 +27,7 @@ https://github.com/Mehwish33/Covid_19-pandas-analysis/tree/main
 ## Output:
 ##Top 10 country data
 
-Country                           Date                              Confirmed   Recovered    Deaths 
+##Country                          ## Date                         ## Confirmed   ##Recovered  ##Deaths 
 
 US              2020-01-222020-01-232020-01-242020-01-252020-0...  22963151317   496971828  368024697
 India           2020-01-222020-01-232020-01-242020-01-252020-0...  14681429726  4859387857  192264062
