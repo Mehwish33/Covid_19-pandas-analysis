@@ -25,4 +25,4 @@ https://github.com/Mehwish33/Covid_19-pandas-analysis/tree/main
 
 
 ## Output:
-C:\Users\MEHWISH\Music\pandas\country_summary.csv  (Contains summery by country)
+C:\Users\MEHWISH\Music\pandas\country_summary
