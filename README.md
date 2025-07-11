@@ -24,5 +24,5 @@ This project analyzes global COVID-19 data using Pandas and visualizes trends us
 https://github.com/Mehwish33/Covid_19-pandas-analysis/tree/main
 
 
-## 📂 Output:
-- `country_summary.csv`: Contains summary by country
+## Output:
+C:\Users\MEHWISH\Music\pandas\country_summary.csv  (Contains summery by country)
