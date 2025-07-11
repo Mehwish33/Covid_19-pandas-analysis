@@ -9,7 +9,7 @@ This project analyzes global COVID-19 data using Pandas and visualizes trends us
 - Pandas
 - Matplotlib
 
-## 📈 Features:
+## Features:
 - Read and clean real-time COVID-19 data from GitHub
 - Global summary (confirmed, deaths, recovered)
 - Top 10 affected countries
@@ -17,7 +17,8 @@ This project analyzes global COVID-19 data using Pandas and visualizes trends us
 - Save results to CSV
 
 ##  Sample Plot:
-<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/475c539a-4093-491d-8ca7-48933ca7f945" />
+<img width="1853" height="876" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/65973a2e-96ed-4ccd-8bc5-d8bbb1fb434c" />
+
 
 ## Dataset Source:
 https://github.com/Mehwish33/Covid_19-pandas-analysis/tree/main
