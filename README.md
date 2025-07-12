@@ -17,11 +17,8 @@ This project analyzes global COVID-19 data using Pandas and visualizes trends us
 - Save results to CSV
 
 ##  Sample Plot:
+
 <img width="1853" height="876" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/65973a2e-96ed-4ccd-8bc5-d8bbb1fb434c" />
-
-
-## Dataset Source:
-
 
 
 ## Output:
