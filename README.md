@@ -21,7 +21,7 @@ This project analyzes global COVID-19 data using Pandas and visualizes trends us
 
 
 ## Dataset Source:
-https://github.com/Mehwish33/Covid_19-pandas-analysis/tree/main
+C:\\Users\\MEHWISH\\Downloads\\owid-covid-data.csv
 
 
 ## Output:
